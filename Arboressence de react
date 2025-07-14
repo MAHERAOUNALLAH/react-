@@ -1,0 +1,12 @@
+mon-projet-react/
+├── node_modules/          # Dépendances installées
+├── public/               # Fichiers statiques (images, favicon)
+├── src/
+│   ├── components/       # Composants réutilisables
+│   │   ├── Button.jsx    # Exemple de composant
+│   │   └── Button.css    # CSS spécifique au composant (optionnel)
+│   ├── App.jsx           # Composant principal
+│   ├── main.jsx          # Point d'entrée de l'app
+│   └── index.css         # CSS global
+├── package.json          # Configuration du projet
+└── vite.config.js        # Configuration de Vite
